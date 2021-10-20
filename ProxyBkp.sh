@@ -1,14 +1,13 @@
 #!/bin/bash
 lolcat Video
 lolcat Bokep
-sleep 2
 echo "____________________________________________"
 echo "Author : Mr.T1T4N"
 echo "Team : Indonesia Cyber | Linux Cyber"
 echo "Mastah : Dont Be Lose, And Subscribe:)"
 echo "Subscribe Channel : T1T4N TZY"
 echo "____________________________________________"
-clear
+sleep 2
 echo
 echo "(1) Video Anime Bokep 1"
 echo "(2) Video Anime Bokep 2"
@@ -20,14 +19,14 @@ if [ $who="1" ]
 then
  echo "Buka & Salin Ini Link=www87.zippyshare.com/v/fsMLNN3i/file.html"
  echo "Jangan Kelamaan Tobat"
-fi [ $who="2" ]
+if [ $who="2" ]
 then
   echo "Sedang Dalam Proses Update"
-fi [ $who="3" ]
+ir [ $who="3" ]
 then
    echo "Jangan Kebanyakan Nonton Bokep, Tobat Bro"
    echo "Thanks"
-fi [ $who="4" ]
+if [ $who="4" ]
 then
 lolcat Tobat
 lolcat Bro 

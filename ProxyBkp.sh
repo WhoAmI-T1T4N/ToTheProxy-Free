@@ -15,18 +15,18 @@ echo "(2) Video Anime Bokep 2"
 echo "(3) Video Anime Bokep 3"
 echo "(4) Exit Lah Kalo Udah Tobat"
 echo 
-read -p "Pilih : " 
-if [  $who="1" ]
+read -p "Pilih :"who
+if [ $who="1" ]
 then
  echo "Buka & Salin Ini Link=www87.zippyshare.com/v/fsMLNN3i/file.html"
  echo "Jangan Kelamaan Tobat"
 fi [ $who="2" ]
 then
-  echo "Sedang Dalam Proses Update :V"
+  echo "Sedang Dalam Proses Update"
 fi [ $who="3" ]
 then
-   echi "Jangan Kebanyakan Nonton Bokep, Tobat Bro"
-  echo "Thanks"
+   echo "Jangan Kebanyakan Nonton Bokep, Tobat Bro"
+   echo "Thanks"
 fi [ $who="4" ]
 then
 lolcat Tobat

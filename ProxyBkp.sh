@@ -32,3 +32,4 @@ lolcat Bro
    echo "Udah Subscribe Channel"
    echo "Siap Bang"
 exit
+end
